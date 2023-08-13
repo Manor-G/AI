@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Load the dataset
-filepath = r"/Users/haojiezhang/Desktop/My AI/dataset"
+filepath = r"/Users/_/Desktop/My AI/dataset"
 file = os.path.join(filepath, "Churn_Modelling.csv")
 dataset = pd.read_csv(file)
 
